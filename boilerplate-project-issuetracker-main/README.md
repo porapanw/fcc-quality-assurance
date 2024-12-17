@@ -1,2 +1,3 @@
-this test is so challenging that i took more than one day to pass and in the end the code passed after multiple failed even though I didn't change anything in the code.
-now that I have already completed, I feel so grateful
+# Issue Tracker
+
+This is the boilerplate for the Issue Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
